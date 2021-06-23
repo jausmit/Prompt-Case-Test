@@ -1,5 +1,5 @@
 # Prompt-Case-Test
 
-<h1>PCT</h1>
+<h2>PCT</h2>
 
-Basicamente, um programa que busca automatizar o comportamento de testar entradas em um programa, comparando-os com as saídas.
+Basicamente, um programa que busca automatizar o comportamento de testar entradas em um programa, comparando-as com as saídas.
